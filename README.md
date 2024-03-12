@@ -17,7 +17,7 @@ Configurações básicas:
 Orientação: **Horizontal**
 Resolução da câmera: **16:9**
 Qualidade de vídeo: FHD **1920 x 1080**
-Formato de vídeo: **MP4**
+Formato de vídeo: **MP4** 
 
 ## Ambiente para gravação
 Sugerimos que escolha um local bem iluminado, caso não tenha luzes artificiais, se posicione de frente para alguma janela, a luz natural é excelente.
